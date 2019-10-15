@@ -19,3 +19,4 @@ Add your name to the list below, and send a PR
 | Vineet Kumar | [heisenberg-official](https://github.com/heisenberg-official) |
 | Akshat Gupta | [akshatvg](https://github.com/akshatvg) |
 | Saumya Verma | [CmdrSam](https://github.com/CmdrSam) |
+| Jai Joshi | [joshijai2](https://github.com/joshijai2) |
